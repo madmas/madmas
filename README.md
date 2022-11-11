@@ -4,8 +4,6 @@ I´m a Software Engineer working n the roles of an Architect, (Lead) Enginer and
 
 Besides that, I regulary do podcast in [Binärgewitter](http://blog.binaergewitter.de/).
 
-You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@madmas">madmas@mastodon.social</a>.
-
 <p> <!-- GitHub README Stats -->
 
 ### Stats 
