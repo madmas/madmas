@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I´m a Software Engineer working n the roles of an Architect, (Lead) Enginer and Account Manager.
+I´m a Software Engineer working in the roles of an Architect, (Lead) Engineer and Account Manager.
 
 Besides that, I regulary do podcast in [Binärgewitter](http://blog.binaergewitter.de/).
 
